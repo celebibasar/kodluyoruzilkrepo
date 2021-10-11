@@ -1,10 +1,10 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Github projemin ekran görüntüsü](https://github.com/celebibasar/kodluyoruzilkrepo)
+![Github projemin ekran görüntüsü](https://github.com/celebibasar/kodluyoruzilkrepo/blob/main/images/Screenshot%20(13).png)
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 
 ```
 git clone https://github.com/celebibasar/kodluyoruzilkrepo.git
